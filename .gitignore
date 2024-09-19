@@ -1,0 +1,19 @@
+LinuxTutorialData/
+challenges.md
+
+# ignore all the pycharm files and directories
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# ignore all the virtual environment files and directories
+venv/
+
+#ignore python cache files
+__pycache__/
+
+#ignore all the python compiled files
+*.pyc
+*.pyo
+*.pyd
